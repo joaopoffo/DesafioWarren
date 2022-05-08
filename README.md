@@ -13,5 +13,5 @@ Para o desenvolvimento das atividades, utilizei o programa Eclipse IDE para o de
 ## :hammer: Funcionalidades do projeto
 
 - `Funcionalidade 1`: Para o código do Desafio01, foi desenvolvido um algoritmo que demonstrou na tela todos os números n onde a soma de n + reverso(n) resultam em números ímpares que estão abaixo de 1 milhão.
-- `Funcionalidade 2`: Foi construido um algoritmo que dado o tempo de chegada de cada aluno e o limite x de alunos presentes, determina se a classe vai ser cancelada ou não ("Aula cancelada” ou “Aula normal”). Quando utilizamos rodamos o código, neste caso o console do Eclipse determina que a aula seguirá como normal.
+- `Funcionalidade 2`: Foi construído um algoritmo que dado o tempo de chegada de cada aluno e o limite x de alunos presentes, determina se a classe vai ser cancelada ou não ("Aula cancelada” ou “Aula normal”). Quando rodamos o código utilizando a saída de dados informada no exercício, o console do Eclipse determina que a aula seguirá como normal.
 - `Funcionalidade 3`: descrição da funcionalidade 3
