@@ -8,7 +8,7 @@
 
 Etapa prática do desafio Warren Tech Academy, sendo a segunda etapa do projeto, onde os participantes do processo seletivo devem realizar uma sequência de atividades solicitadas.
 
-Para o desenvolvimento das atividades, utilizei o programa Eclipse IDE para o desenvolvimento, que consiste em códigos feitos utilizando primariamente a linguagem de programação JAVA
+Para o desenvolvimento das atividades, utilizei a IDE Eclipse para o desenvolvimento, que consiste em códigos feitos utilizando primariamente a linguagem de programação JAVA
 
 ## :hammer: Funcionalidades do projeto
 
